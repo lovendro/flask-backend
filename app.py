@@ -188,7 +188,7 @@ def mpesa_payment():
         "PartyB": "174379",
         "PhoneNumber": phone,
         "CallBackURL": "https://coding.co.ke/api/confirm.php",
-        "AccountReference": " chui SokoGarden Online",
+        "AccountReference": " farasi SokoGarden Online",
         "TransactionDesc": "Payments for Products"
         }
 
